@@ -1,4 +1,4 @@
-package "github.com/edgood1/nettools"
+package nettools
 
 import (
 	"errors"
